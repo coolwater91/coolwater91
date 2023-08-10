@@ -1,8 +1,8 @@
 ### Hello Everybody 👋
 
 기술 스택
-<img src="https://img.shields.io/badge/Eclipse-Indigo?style=plastic&logo=eclipseide&logoColor=2C2255"/>
-<img src="https://img.shields.io/badge/javascript-Indigo?style=plastic&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Eclipse-yellow?style=plastic&logo=eclipseide&logoColor=2C2255"/>
+<img src="https://img.shields.io/badge/javascript-navy?style=plastic&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/oracle-black?style=plastic&logo=oracle&logoColor=F80000"/>
 <img src="https://img.shields.io/badge/visualStudioCode-orange?style=plastic&logo=visualstudiocode&logoColor=007ACC"/>
 
