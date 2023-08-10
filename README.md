@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello Everybody 👋
+
+기술 스택
+<img src="https://img.shields.io/badge/java-green?style=plastic&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/javascript-red?style=plastic&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/oracle-black?style=plastic&logo=oracle&logoColor=F80000"/>
+<img src="https://img.shields.io/badge/visualStudioCode-blue?style=plastic&logo=visualstudiocode&logoColor=007ACC"/>
 
 <!--
 **coolwater91/coolwater91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
