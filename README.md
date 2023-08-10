@@ -1,7 +1,7 @@
 ### Hello Everybody 👋
 
 기술 스택<br>
-<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&/>
+<img src="https://img.shields.io/badge/Java-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Eclipse-yellow?style=for-the-badge&logo=eclipseide&logoColor=2C2255"/>
 <img src="https://img.shields.io/badge/javascript-navy?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/oracle-black?style=for-the-badge&logo=oracle&logoColor=F80000"/>
