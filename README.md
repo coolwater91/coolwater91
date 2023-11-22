@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20there,%20I'm%20Deukgyun🤚&fontSize=50&animation=twinkling&desc=Welcome%20to%20My%20World&fontAlignY=40&)
 
-<h4 align="center"> 안녕하세요. BackEnd_developer 안득균입니다.😀</h4>
+<h4 align="center"> 안녕하세요. 안득균입니다. 🌱 </h4>
 
 <br />
 
@@ -16,15 +16,6 @@
 
 <br />
 
-<h3 align="center"> 📄Study Now📄 </h3>
-
-<div align="center">
-<img src="https://img.shields.io/badge/python-3178C6?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-</div>
-
-<br />
 
 <h3 align="center";> 🔧Tools🔧</h3>
 
@@ -38,16 +29,6 @@
 </div>
 
 <br />
-
-<h3 align="center"> 📊Github Stats📊 </h3>
-
-<div  align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=coolwater91&show_icons=true&hide=stars,prs,issues,contribs">
-</div>
-
-<div  align="center">
-<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolwater91&layout=donut-vertical">
-</div>
 
 <!--
 **coolwater91/coolwater91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
